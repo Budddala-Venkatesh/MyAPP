@@ -1,0 +1,5 @@
+The file 'Filename' cannot be opened" Check the file name and path are correct. Check that the file format is recognized by project. Project file saved in a version earlier than Microsoft Project 2000 can't be opened. If your file is from earlier version, open it in that version, click save as (File menu), and save in MPX format. Open the MPX file in the current version of Project. When you use this method, project data is imported, but formatting is lost
+
+7535
+
+6362072201
